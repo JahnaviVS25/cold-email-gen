@@ -1,0 +1,12 @@
+streamlit
+langchain==0.1.12
+langchain_community
+chromadb==0.4.24
+openai==1.2.3
+pandas==2.0.3
+numpy>=1.26.0
+requests
+tiktoken
+pyyaml
+langchain_groq
+pysqlite3-binary
